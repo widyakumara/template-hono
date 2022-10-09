@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "std:dotenv": "https://deno.land/std/dotenv/load.ts",
+    "std:server": "https://deno.land/std/http/server.ts",
+    "x:hono": "https://deno.land/x/hono/mod.ts"
+  }
+}
